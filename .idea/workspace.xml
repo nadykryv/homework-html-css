@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196822b4-f089-4433-a698-ee09c7ab2587" name="Changes" comment="add to img">
+    <list default="true" id="196822b4-f089-4433-a698-ee09c7ab2587" name="Changes" comment="collegamento">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task/mio-stile.css" beforeDir="false" afterPath="$PROJECT_DIR$/task/mio-stile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task/primo.html" beforeDir="false" afterPath="$PROJECT_DIR$/task/primo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task/terzo.html" beforeDir="false" afterPath="$PROJECT_DIR$/task/terzo.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +74,9 @@
       <workItem from="1718850009134" duration="235000" />
       <workItem from="1718871622792" duration="7927000" />
       <workItem from="1718884383688" duration="6476000" />
-      <workItem from="1718896548156" duration="2951000" />
+      <workItem from="1718896548156" duration="5112000" />
+      <workItem from="1718903216399" duration="2036000" />
+      <workItem from="1718919086026" duration="850000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -131,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718889851383</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="collegamento">
+      <option name="closed" value="true" />
+      <created>1718900463465</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718900463465</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +166,7 @@
     <MESSAGE value="modifica" />
     <MESSAGE value="add to mod" />
     <MESSAGE value="add to img" />
-    <option name="LAST_COMMIT_MESSAGE" value="add to img" />
+    <MESSAGE value="collegamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="collegamento" />
   </component>
 </project>
