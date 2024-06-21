@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196822b4-f089-4433-a698-ee09c7ab2587" name="Changes" comment=" add code to box">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/mio-stile.css" beforeDir="false" afterPath="$PROJECT_DIR$/task/mio-stile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task/terzo.html" beforeDir="false" afterPath="$PROJECT_DIR$/task/terzo.html" afterDir="false" />
-    </list>
+    <list default="true" id="196822b4-f089-4433-a698-ee09c7ab2587" name="Changes" comment="  box" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +74,7 @@
       <workItem from="1718919086026" duration="10241000" />
       <workItem from="1718959402527" duration="16603000" />
       <workItem from="1718979599630" duration="674000" />
-      <workItem from="1718986887638" duration="1211000" />
+      <workItem from="1718986887638" duration="2657000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -224,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718977864719</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="  box">
+      <option name="closed" value="true" />
+      <created>1718989079709</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1718989079709</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,6 +260,7 @@
     <MESSAGE value="    tt mod" />
     <MESSAGE value="    dif mod" />
     <MESSAGE value=" add code to box" />
-    <option name="LAST_COMMIT_MESSAGE" value=" add code to box" />
+    <MESSAGE value="  box" />
+    <option name="LAST_COMMIT_MESSAGE" value="  box" />
   </component>
 </project>
