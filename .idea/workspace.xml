@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196822b4-f089-4433-a698-ee09c7ab2587" name="Changes" comment=" mod to add">
+    <list default="true" id="196822b4-f089-4433-a698-ee09c7ab2587" name="Changes" comment="  to add img">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task/secondo.html" beforeDir="false" afterPath="$PROJECT_DIR$/task/secondo.html" afterDir="false" />
     </list>
@@ -75,7 +75,7 @@
       <workItem from="1718896548156" duration="5112000" />
       <workItem from="1718903216399" duration="2036000" />
       <workItem from="1718919086026" duration="10241000" />
-      <workItem from="1718959402527" duration="6909000" />
+      <workItem from="1718959402527" duration="8622000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -181,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718964431631</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="  to add img">
+      <option name="closed" value="true" />
+      <created>1718968010161</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718968010161</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +216,7 @@
     <MESSAGE value="collegamento" />
     <MESSAGE value="add mod" />
     <MESSAGE value=" mod to add" />
-    <option name="LAST_COMMIT_MESSAGE" value=" mod to add" />
+    <MESSAGE value="  to add img" />
+    <option name="LAST_COMMIT_MESSAGE" value="  to add img" />
   </component>
 </project>
