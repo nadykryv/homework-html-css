@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196822b4-f089-4433-a698-ee09c7ab2587" name="Changes" comment="  box" />
+    <list default="true" id="196822b4-f089-4433-a698-ee09c7ab2587" name="Changes" comment=" card" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +75,7 @@
       <workItem from="1718959402527" duration="16603000" />
       <workItem from="1718979599630" duration="674000" />
       <workItem from="1718986887638" duration="2657000" />
+      <workItem from="1718999768643" duration="13635000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <option name="closed" value="true" />
@@ -228,7 +229,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718989079709</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary=" add red to box">
+      <option name="closed" value="true" />
+      <created>1719009508376</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1719009508376</updated>
+    </task>
+    <task id="LOCAL-00021" summary=" card">
+      <option name="closed" value="true" />
+      <created>1719014597130</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1719014597130</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +278,8 @@
     <MESSAGE value="    dif mod" />
     <MESSAGE value=" add code to box" />
     <MESSAGE value="  box" />
-    <option name="LAST_COMMIT_MESSAGE" value="  box" />
+    <MESSAGE value=" add red to box" />
+    <MESSAGE value=" card" />
+    <option name="LAST_COMMIT_MESSAGE" value=" card" />
   </component>
 </project>
