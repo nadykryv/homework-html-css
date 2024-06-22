@@ -14,23 +14,22 @@ p{
 .card{
     width: 160px;
     height: 160px;
-    font-size: 50px;
+    font-size: 60px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     flex-direction: column;
-    gap: 30px;
+
 
 }
 .card-red{
     width: 160px;
     height: 160px;
-    font-size: 50px;
+    font-size: 60px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     flex-direction: column;
-    gap: 30px;
     color: red;
 }
 
